@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Practica1-AndroidAvanzado</string>
+    <string name="shr_hint_password">contraseña</string>
 </resources>
