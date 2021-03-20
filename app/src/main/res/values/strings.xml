@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name">Practica1-AndroidAvanzado</string>
-    <string name="shr_hint_password">contraseña</string>
+    <string name="shr_hint_password">Contraseña</string>
+    <string name="shr_hint_username">Usuario</string>
+    <string name="shr_error_password">Password must be at least 8 characters long</string>
 </resources>
