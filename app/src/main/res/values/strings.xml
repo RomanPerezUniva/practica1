@@ -3,4 +3,8 @@
     <string name="shr_hint_password">Contraseña</string>
     <string name="shr_hint_username">Usuario</string>
     <string name="shr_error_password">Password must be at least 8 characters long</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hola Bienvenido............</string>
+    <string name="f1">Detalle</string>
+    <string name="f2">Error</string>
 </resources>
